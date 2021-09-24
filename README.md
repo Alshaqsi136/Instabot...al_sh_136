@@ -10,6 +10,11 @@ https://github.com/Alshaqsi136/Instabot...al_sh_136/archive/refs/heads/main.zip 
 
 
 
+
+
+
+
+
 طريقة تشغيل البوت
 
 
