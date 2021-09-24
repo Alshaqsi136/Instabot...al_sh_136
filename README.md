@@ -24,19 +24,19 @@ https://github.com/Alshaqsi136/Instabot...al_sh_136/archive/refs/heads/main.zip 
  
  
  
- ##python get-pip.py
+ python get-pip.py
  
  
- ##python -m pip install pip==18.0
+ python -m pip install pip==18.0
  
  
- ##pip install selenium
+ pip install selenium
  
  
- ##cd Downloads\Instabot...al_sh_136-main
+cd Downloads\Instabot...al_sh_136-main
  
  
- ##python instabot.py
+ python instabot.py
  
 
 قبل تشغيل الكود غير اليوز والباس من الكود
