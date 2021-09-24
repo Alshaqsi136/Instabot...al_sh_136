@@ -1,6 +1,9 @@
 # Instabot...al_sh_136
 
 
+البرنامج يشتغل فقط على الوندوز
+
+
 https://github.com/Alshaqsi136/Instabot...al_sh_136/archive/refs/heads/main.zip     رابط التنزيل
 
 فك ضغط الملف بعد التنزيل
