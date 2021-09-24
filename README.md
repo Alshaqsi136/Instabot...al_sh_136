@@ -3,6 +3,9 @@
 
 https://github.com/Alshaqsi136/Instabot...al_sh_136/archive/refs/heads/main.zip     رابط التنزيل
 
+فك ضغط الملف بعد التنزيل
+
+
 
 طريقة تشغيل البوت
 
